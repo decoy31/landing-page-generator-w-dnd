@@ -1,4 +1,6 @@
 .Editor {
+	position: relative;
 	box-sizing: border-box;
 	background-color: #CCCCCC;
+	border: 1px solid #353535;
 }

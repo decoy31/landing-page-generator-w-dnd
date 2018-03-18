@@ -12,8 +12,10 @@ export default class App extends Component {
 				<header>
 					<h1>Landing Page Generator</h1>
 				</header>
-				<LayoutPicker />
-				<Editor />
+				<div className="content">
+					<LayoutPicker />
+					<Editor />
+				</div>
 			</div>
 		);
 	}
